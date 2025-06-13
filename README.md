@@ -1,4 +1,3 @@
-
 # QAForge 🚀  
 **Next-Level Test Automation for Reliable Software Delivery**  
 *"Our mission is to help companies build reliable software by implementing robust and scalable test automation strategies."*
