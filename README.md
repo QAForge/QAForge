@@ -61,7 +61,7 @@ Log4j, Maven, DataDog
 | 📍 Location     | Görlitz, Saxony (Germany)           |
 | 📞 Phone        | +48 518 341 316                     |
 | 📧 Email        | [contact@qaforge.tech](mailto:contact@qaforge.tech) |
-| 🌐 Website      | [www.qaforge.tech](https://www.qaforge.tech) |
+| 🌐 Website      | [www.qaforge.tech](https://qaforge.tech) |
 
 ---
 
